@@ -1,0 +1,2 @@
+def foo(:
+    this is not even meant to be python
